@@ -1,13 +1,13 @@
-package com.robson.DSMovie;
+package com.robson.dsmovie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DsMovieApplication {
+public class DsmovieApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DsMovieApplication.class, args);
+		SpringApplication.run(DsmovieApplication.class, args);
 	}
 
 }

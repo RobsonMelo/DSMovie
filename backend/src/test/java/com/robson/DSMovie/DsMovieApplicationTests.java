@@ -1,10 +1,10 @@
-package com.robson.DSMovie;
+package com.robson.dsmovie;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DsMovieApplicationTests {
+class DsmovieApplicationTests {
 
 	@Test
 	void contextLoads() {
